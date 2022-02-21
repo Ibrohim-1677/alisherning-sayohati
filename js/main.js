@@ -13,5 +13,5 @@ var summed = prompt("pulni kriting")
 if(summed>=add){
     console.log("alisher pulingiz yetadi gazini bosing");
 }else{
-    console.log("brat yana azgina ishlirkansiz");
+    console.log("brat puliz yetmadi keyingi safar");
 }
